@@ -25,7 +25,7 @@ const collectEmployees = function() {
     }
         employeeArray.push(currentEmployee);
 
-    userInput=confirm("Would you like to add another employee");  
+    userInput=confirm("Would you like to add another employee?");  
     }
   
         return (employeeArray);
