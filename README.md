@@ -4,7 +4,7 @@
 This application can be used to organize and track employee data. 
 It creates a table with each employee's first name, last name, and salary.
 Employees will be listed alphabetically by last name and average salary for 
-all employees will be calculated from this data.This can make it easy for 
+all employees will be calculated from this data. This can make it easy for 
 business owners to quickly assess and manage their budget.
 
 ## Usage
